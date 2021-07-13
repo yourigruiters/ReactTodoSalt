@@ -22,12 +22,12 @@ const Form = ({
 					>
 						{formData.id !== 0 && (
 							<article className="warning">
-								<span>Note:</span> you are editing an excisting todo.
+								<span>Note:</span> you are editing an existing todo.
 							</article>
 						)}
 						<article>
 							<p>
-								Todo title <span>*</span>
+								Title <span>*</span>
 							</p>
 							<input
 								type="text"
@@ -42,7 +42,7 @@ const Form = ({
 							)}
 						</article>
 						<article>
-							<p>Todo description</p>
+							<p>Description</p>
 							<textarea
 								name="description"
 								value={formData.description}

@@ -1,13 +1,9 @@
-![Logo YG](http://github.yourigruiters.com/images/logo.png)
-
 # React todo-app Salt
-React todo-app created for Salt
+Simple React ToDo Application using class components and plain JSX.
 
-## Used Modules
+## Specifications
 
 * Create-react-app
 * Flexbox
-
-## Images 
-
-![Image1](http://github.yourigruiters.com/images/saltreacttodo.png)
+* Javascript 
+* Class components
